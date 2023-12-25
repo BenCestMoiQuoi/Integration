@@ -1,5 +1,6 @@
 # Integration
 
+
     *****************************************************
     *                                                   *
     *     Report of Computer and programming project    *
@@ -22,7 +23,9 @@ to be the easiest posible.
 2. The user should determinate the integration range
 3. The user can also change the number of integration part
 
+
 For exemple -> 
+    
     float f(float x)
     {
         return 1-x*x; // Make your own function here
@@ -74,5 +77,7 @@ entry as a decimal number)
 On the secund page, you have the function draw on a figure and the result of the numerical integration.
 
 For more information, please contact me
+
 +33 7 68 02 46 86
+
 corentin.roche@insa-cvl.fr
