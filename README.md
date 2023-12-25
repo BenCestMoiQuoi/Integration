@@ -1,13 +1,9 @@
 # Integration
 
 
-    *****************************************************
-    *                                                   *
-    *     Report of Computer and programming project    *
-    *                                                   *
-    *****************************************************
+Report of Computer and programming project
 
-                Numerical Integration
+   Numerical Integration
 
 -------------------------------------------------------------
 
@@ -55,14 +51,11 @@ For exemple ->
 The python program is a little bit complicated because I have better skills in python.
 The project is organized on a folder.
 
-> Integration 
-    > __pycache__   // it's a folder where create by python at each running
-    - __main__.py   // the main file
-    - Classe.py     // the file which groups all the classes
-    - Fonction.py   // the file wich groups the functions
-    - icone.ico     // the icone of the window application
-    - Parameter.py  // the file wich groups the parameters of the program
-- Integration.bat   // the file to execute the application
+ \__pycache__   // it's a folder where create by python at each running
+- \__main__.py   // the main file
+- Classe.py     // the file which groups all the classes
+- Fonction.py   // the file wich groups functions and parametres
+- icone.ico     // the icone of the window application
 
 So, to open the application, you have just to open the Integration.bat file.
 You can also open this application with the cmd before the folder Integration
