@@ -57,8 +57,7 @@ The project is organized on a folder.
 - Fonction.py   // the file wich groups functions and parametres
 - icone.ico     // the icone of the window application
 
-So, to open the application, you have just to open the Integration.bat file.
-You can also open this application with the cmd before the folder Integration
+So, you can open this application with the cmd before the folder Integration
 with the command : python -m Integration
 
 On the first page, you can add your function with the kayboard matrix (an automatic function
